@@ -1,0 +1,5 @@
+{
+  "name": "claudecode-golden-hour",
+  "owner": { "name": "qq13113013831-web" },
+  "plugins": [{ "name": "claudecode-golden-hour", "source": "./" }]
+}
